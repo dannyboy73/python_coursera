@@ -458,17 +458,14 @@ what error it gives or trying to run the function.
 #%%
 def favorite():
     my_toy = input("What is my favorite toy? ")
-     print("Your favorite toy is", my-toy)
+    print("Your favorite toy is", my-toy)
 #%%  
 """
 My solution:
 """
-
-
-
-
-
-
+def favorite():
+    my_toy = input("What is my favorite toy? ")
+    print("Your favorite toy is", my_toy)
 
 #%%
 """
